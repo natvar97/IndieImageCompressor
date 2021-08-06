@@ -143,7 +143,7 @@
                 android:text="Compress"
                 android:textColor="@color/white"
                 android:background="@drawable/button_background"
-                android:visibility="visible"
+                android:visibility="gone"
                 android:textAllCaps="false" />
 
         </LinearLayout>
